@@ -1,0 +1,27 @@
+{
+  "name": "stackblitz-starters-b5pb9w",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/types": "7.23.9",
+    "@popperjs/core": "^2.11.8",
+    "@types/react": ">=16.14.8",
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.3",
+    "firebase": "^10.7.2",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
